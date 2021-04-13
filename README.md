@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="moveit" src=".github/nlw.png" width="100%">
+  <img alt="moveit" src="/.github/nlw.PNG" width="100%">
 </p>
 
 ## 
