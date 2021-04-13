@@ -10,7 +10,8 @@
   <img alt="moveit" src=".github/nlw.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 
+Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -18,5 +19,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## 💻 Projeto
+##  Projeto
 Uma tentativa de tentar colocar os conceitos do nlw-4  no js puro  ainda ta incompleto 
